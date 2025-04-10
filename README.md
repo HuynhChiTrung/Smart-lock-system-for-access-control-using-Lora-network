@@ -28,7 +28,7 @@ Người dùng có thể linh hoạt lựa chọn bất kỳ phương thức nà
 
 ## ⚙️ Tính Năng Nổi Bật
 
-- ✅ **Hỗ trợ cấu hình WiFi động**: Không cần nạp lại firmware khi thay đổi mạng.
+- ✅ **Hỗ trợ cấu hình WiFi và LoRa động**: Không cần nạp lại firmware khi thay đổi mạng.
 - 📡 **Truyền dữ liệu ổn định** với công nghệ **LoRa**.
 - 🔄 **Đồng bộ dữ liệu người dùng** giữa Server ↔ Gateway ↔ Node.
 - 🔐 **Độ bảo mật cao** với nhiều lựa chọn xác thực.
