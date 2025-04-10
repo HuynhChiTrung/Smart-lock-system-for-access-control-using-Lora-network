@@ -9,8 +9,8 @@ Hệ thống được thiết kế như một **ổ khóa thông minh**, tích h
 - 🔢 Bàn phím số cảm ứng (MPR121)  
 
 Người dùng có thể linh hoạt lựa chọn bất kỳ phương thức nào để mở cửa khi có nhu cầu ra vào tòa nhà.
-![image](https://github.com/user-attachments/assets/1f48d10d-1b0c-4f69-a9cf-78ef74de5a39)
 
+![image](https://github.com/user-attachments/assets/1f48d10d-1b0c-4f69-a9cf-78ef74de5a39)
 
 ## 🏗️ Kiến Trúc Hệ Thống
 
@@ -29,6 +29,8 @@ Người dùng có thể linh hoạt lựa chọn bất kỳ phương thức nà
 - Gateway sẽ **tự động đồng bộ dữ liệu mới** từ server về tất cả các Node.
 
 ## ⚙️ Tính Năng Nổi Bật
+
+![image](https://github.com/user-attachments/assets/17951768-ba2f-4ced-ad5e-eba21d832e07)
 
 - ✅ **Hỗ trợ cấu hình WiFi và LoRa động**: Không cần nạp lại firmware khi thay đổi mạng.
 - 📡 **Truyền dữ liệu ổn định** với công nghệ **LoRa**.
