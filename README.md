@@ -9,6 +9,8 @@ Hệ thống được thiết kế như một **ổ khóa thông minh**, tích h
 - 🔢 Bàn phím số cảm ứng (MPR121)  
 
 Người dùng có thể linh hoạt lựa chọn bất kỳ phương thức nào để mở cửa khi có nhu cầu ra vào tòa nhà.
+![image](https://github.com/user-attachments/assets/1f48d10d-1b0c-4f69-a9cf-78ef74de5a39)
+
 
 ## 🏗️ Kiến Trúc Hệ Thống
 
