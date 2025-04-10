@@ -27,16 +27,18 @@ Người dùng có thể linh hoạt lựa chọn bất kỳ phương thức nà
 - Dữ liệu ra vào được phân loại và lưu trữ **tự động theo ngày**, dễ dàng tra cứu và quản lý.
 - Khi có người dùng mới, nhân viên bảo vệ sử dụng **giao diện Webserver** để thêm dữ liệu.
 - Gateway sẽ **tự động đồng bộ dữ liệu mới** từ server về tất cả các Node.
+- 
+![image](https://github.com/user-attachments/assets/271eb02b-4860-4316-8aeb-bd24c4b69d0c)
 
 ## ⚙️ Tính Năng Nổi Bật
-
-![image](https://github.com/user-attachments/assets/17951768-ba2f-4ced-ad5e-eba21d832e07)
 
 - ✅ **Hỗ trợ cấu hình WiFi và LoRa động**: Không cần nạp lại firmware khi thay đổi mạng.
 - 📡 **Truyền dữ liệu ổn định** với công nghệ **LoRa**.
 - 🔄 **Đồng bộ dữ liệu người dùng** giữa Server ↔ Gateway ↔ Node.
 - 🔐 **Độ bảo mật cao** với nhiều lựa chọn xác thực.
 - 🌐 **Webserver tích hợp** để cấu hình và thêm dữ liệu từ trình duyệt.
+
+![image](https://github.com/user-attachments/assets/17951768-ba2f-4ced-ad5e-eba21d832e07)
 
 ## 🧠 Công Nghệ Sử Dụng
 
